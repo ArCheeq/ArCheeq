@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Artem👋 </h1>
 
 <!--
 **ArCheeq/ArCheeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
