@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/MUI-purple.svg?style=for-the-badge&logo=MUI"/>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArCheeq"/>
+
 <h2 align="center">Projects</h2>
 
 <div>
@@ -50,6 +52,3 @@
     <img src="https://img.shields.io/badge/React Chat-purple.svg?style=for-the-badge&"/>
   </a>
 </div>
-
-<h2 align="center">Top languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArCheeq"/>
