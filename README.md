@@ -50,3 +50,6 @@
     <img src="https://img.shields.io/badge/React Chat-purple.svg?style=for-the-badge&"/>
   </a>
 </div>
+
+<h2 align="center">Top languages</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArCheeq&hide_progress=true)]
