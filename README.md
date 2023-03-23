@@ -52,4 +52,4 @@
 </div>
 
 <h2 align="center">Top languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArCheeq&hide_progress=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArCheeq"/>
