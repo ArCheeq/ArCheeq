@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/MUI-purple.svg?style=for-the-badge&logo=MUI"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArCheeq"/>
-
 <h2 align="center">Projects</h2>
 
 <div>
